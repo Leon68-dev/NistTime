@@ -9,7 +9,7 @@ namespace NistTime
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("DateTime: " + GetNistTime().ToString());
+            Console.WriteLine("Current Date Time: " + GetNistTime().ToString());
 
             DateTime dateTime = GetNistTime().ToUniversalTime();
             dateTime.AddMilliseconds(500);
