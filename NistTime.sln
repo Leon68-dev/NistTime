@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30523.141
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NistTime", "NistTime\NistTime.csproj", "{041F52C9-6A15-4895-86DB-D4E0BD95E6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NistTimeV2", "NistTimeV2\NistTimeV2.csproj", "{EA552280-BAE7-4DC7-8C4D-9DC987EFFCE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{041F52C9-6A15-4895-86DB-D4E0BD95E6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{041F52C9-6A15-4895-86DB-D4E0BD95E6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{041F52C9-6A15-4895-86DB-D4E0BD95E6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA552280-BAE7-4DC7-8C4D-9DC987EFFCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA552280-BAE7-4DC7-8C4D-9DC987EFFCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA552280-BAE7-4DC7-8C4D-9DC987EFFCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA552280-BAE7-4DC7-8C4D-9DC987EFFCE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
