@@ -1,0 +1,7 @@
+*.suo
+/.gitignore
+/NistTime/bin
+/NistTime/obj
+/.vs
+/NistTimeV2/bin
+/NistTimeV2/obj
